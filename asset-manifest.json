@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Pixel_Art_Creator/static/css/main.49dc5b96.css",
-    "main.js": "/Pixel_Art_Creator/static/js/main.60791af8.js",
+    "main.js": "/Pixel_Art_Creator/static/js/main.3ef86083.js",
     "static/js/787.f5e30c07.chunk.js": "/Pixel_Art_Creator/static/js/787.f5e30c07.chunk.js",
     "index.html": "/Pixel_Art_Creator/index.html",
     "main.49dc5b96.css.map": "/Pixel_Art_Creator/static/css/main.49dc5b96.css.map",
-    "main.60791af8.js.map": "/Pixel_Art_Creator/static/js/main.60791af8.js.map",
+    "main.3ef86083.js.map": "/Pixel_Art_Creator/static/js/main.3ef86083.js.map",
     "787.f5e30c07.chunk.js.map": "/Pixel_Art_Creator/static/js/787.f5e30c07.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.49dc5b96.css",
-    "static/js/main.60791af8.js"
+    "static/js/main.3ef86083.js"
   ]
 }
